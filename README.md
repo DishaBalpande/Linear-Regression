@@ -14,4 +14,17 @@ This project use follwing language and package versions. Do make sure you use th
 
 * python version:3.7.3
 
+* numpy version:1.16.4
+
+* pandas version:0.24.2
+
+* seaborn version:0.9.0
+
+* matplot version:3.1.0
+
+* sklearn version:0.22.2
+
+* statsmodels version:1.10.0
+
+* imblearn version:0.6.1
 
